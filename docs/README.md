@@ -13,6 +13,6 @@ Currently Statify can grab stats for the following services:
 
 Making requests is fairly simple, all you have to do is make a get request to the Statify endpoint.
 
-Each endpoint is easy to reach. For example, if you want to get stats for [YouTube](/endpoints/youtube.md), the URL would be `https://api.statify.live/youtube/UsernameHere`\
+Each endpoint is easy to reach. For example, if you want to get stats for [YouTube](/endpoints/youtube.md), the URL would be `https://api.statify.live/youtube/UsernameHere`
 
 A simple JSON is returned, with all the data that endpoint provides, as well as an http code.
