@@ -1,5 +1,0 @@
--   [Home](/)
--   [Endpoint Details](/EndpointDetails)
-    -   [About](/EndpointDetails/AboutEndpoints.md)
-    -   [Discord](/EndpointDetails/Discord.md)
-    -   [YouTube](/EndpointDetails/YouTube.md)

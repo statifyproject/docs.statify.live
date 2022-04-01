@@ -27,15 +27,17 @@ an example JSON response is given here `https://api.statify.live/discord/linux`:
 
 ### Data returned
 
+~ means the data may be excluded if it does not exist
+
 -   HTTP Response Code
 -   Data
     -   Invite used to perform lookup
     -   Name
     -   ID
-    -   Splash
-    -   Icon
-    -   Banner
-    -   Description
+    -   Splash~
+    -   Icon~
+    -   Banner~
+    -   Description~
     -   Boost count
     -   Whether the server is marked NSFW
     -   Member count

@@ -1,6 +1,6 @@
-# Youtube API
+# YouTube API
 
-Requests can be made to the youtube API using the following URL format: `https://api.statify.live/youtube/UsernameHere`
+Requests can be made to the YouTube API using the following URL format: `https://api.statify.live/youtube/UsernameHere`
 
 The api will either return a 404 if the user is not found, or a 200 with the data.
 
